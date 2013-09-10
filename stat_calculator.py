@@ -57,7 +57,7 @@ if __name__ == "__main__":
     estimate = var_estimate(t, h)
     print "Results of mean and variance estimation per visit\n", estimate
     print "Actual mean and variance of traffic per visit", mean_s, var_s
-    #TODO: testing the model using large number of data samples, add some visualisation
+    #TODO: testing the model using large number of data samples, add some visualisation (matplotlib)
 
 
 
